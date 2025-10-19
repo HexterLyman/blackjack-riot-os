@@ -32,4 +32,13 @@ Note: It is recommended to work in Linux / Unix systems or in WSL if in Windows
 7. Upon viewing the highscore, the user can press the input button again and go back to the **Start Menu**. 
 
 
+## Miscellaneous
+- The *display.h* file is **NOT** inside the *Core* directory folder since it requires access to the *bin* folder which contains the necessary libraries i.e. *mineplex.h* in this case
+- **DO NOT** remove the flasher code in main.c! It would still compile, but the program below it will not run.
+
+## Acknowledgements
+Here are the people who have helped provide technical expertise and advice to this project:
+- Jan Jakob Röhl (https://github.com/Bluthammer)
+- Miguel Real Rombao
+
 
