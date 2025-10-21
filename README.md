@@ -21,7 +21,7 @@ Note: It is recommended to work in Linux / Unix systems or in WSL if in Windows
 
 
 ## Application Structure
-<img width="2642" height="1480" alt="image" src="https://github.com/user-attachments/assets/d3a636ff-7e93-48f4-8f86-b1c0820f4892" />
+![image](img/rot_img.png)
 
 1. The **Start Menu** is displayed upon powering the xiao-bella microcontroller.
 2. Once the user presses the input button, the **Cutscene will play**, before showing the **Betting screen**.
